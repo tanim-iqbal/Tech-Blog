@@ -1,17 +1,17 @@
 [
   {
-    "name": "Music Near Me",
-    "description": "A mobile app that will send you notifications whenever a concert is playing in your area.",
+    "name": "Microsoft Buys Activision/Blizzard",
+    "description": "Gaming industry in cahoots",
     "needed_funding": 5000
   },
   {
-    "name": "The Ultimate Tech Quiz",
-    "description": "A web app that will give users 10 new technical questions each day and track their progress in things like programming, cybersecurity, database architecture, and more!",
+    "name": "Chip shortage expected to bleed into 2022",
+    "description": "Global chip shortage makes buying a next gen gaming console almost impossible. Scalpers reselling for hundred of dollars above retail.",
     "needed_funding": 10000
   },
   {
-    "name": "Roll 'Em Up",
-    "description": "A game for Windows and macOS where players move a ball through a series of increasingly challenging mazes.",
+    "name": "Iphone 14 leaks begin to roll out days after release of iPhone 13",
+    "description": "When will it stop? Just days after the release we already seem to have leaked images of the next iPhone. Smaller notch and bigger camera module... yay!",
     "needed_funding": 800
   }
 ]
